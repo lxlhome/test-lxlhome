@@ -7,3 +7,5 @@ Git has a mutable index called stage
 Git trecks changes of files.
 
 Git changes.
+
+Creating a new branch is quick.
